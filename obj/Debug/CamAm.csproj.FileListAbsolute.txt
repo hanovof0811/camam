@@ -1,0 +1,9 @@
+C:\Users\hanov\OneDrive\Documents\Visual Studio 2019\CamAm\bin\Debug\CamAm.exe.config
+C:\Users\hanov\OneDrive\Documents\Visual Studio 2019\CamAm\bin\Debug\CamAm.exe
+C:\Users\hanov\OneDrive\Documents\Visual Studio 2019\CamAm\bin\Debug\CamAm.pdb
+C:\Users\hanov\OneDrive\Documents\Visual Studio 2019\CamAm\obj\Debug\CamAm.Form1.resources
+C:\Users\hanov\OneDrive\Documents\Visual Studio 2019\CamAm\obj\Debug\CamAm.Properties.Resources.resources
+C:\Users\hanov\OneDrive\Documents\Visual Studio 2019\CamAm\obj\Debug\CamAm.csproj.GenerateResource.cache
+C:\Users\hanov\OneDrive\Documents\Visual Studio 2019\CamAm\obj\Debug\CamAm.exe
+C:\Users\hanov\OneDrive\Documents\Visual Studio 2019\CamAm\obj\Debug\CamAm.pdb
+C:\Users\hanov\OneDrive\Documents\Visual Studio 2019\CamAm\obj\Debug\CamAm.csprojAssemblyReference.cache
